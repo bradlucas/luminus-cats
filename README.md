@@ -1,12 +1,12 @@
 # luminus-cats
 
 A sample application generated with Luminus which demonstrates it's
-support for building RESETful web services.
+support for building RESTful web services.
 
 Why?
 
 Chapter Six of `Web Development with Clojure` has a sample application
-which demonstrates how to use Compojure-API to build a RESETful
+which demonstrates how to use Compojure-API to build a RESTful
 service. The example includes the ClojureScript profile to demonstrate
 calling an API.
 
