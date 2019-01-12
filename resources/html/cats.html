@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="row">
+  <div class="col-sm-12">
+    <ul class="list-group">
+    {% for cat in cats %}
+    <li class="list-group-item"><img src="{{cat}}"/></li>
+    {% endfor %}
+    </ul>
+  </div>
+</div>
+{% endblock %}
